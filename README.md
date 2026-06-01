@@ -98,4 +98,4 @@ Meta (Coursera)
 ## Author
 
 Mateo Lopez
-Aspiring Data Analyst | Data Science Student | Front-End Learner
+Aspiring Data Analyst | Data Science Engineer | Front-End Learner
